@@ -4,5 +4,5 @@ Present participants
 
 Name - Dept - semester
 
-1. asd - asd - asd
+1. Md. Nakib Hasan MPE(ME) 1.2
  
